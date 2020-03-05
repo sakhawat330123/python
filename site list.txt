@@ -7,4 +7,4 @@ sql learning
 
 https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
 
-
+	https://academy.vertabelo.com/course/ms-sql-basics/single-table/filtering-rows/not-equals   (bcs)
