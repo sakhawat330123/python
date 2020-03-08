@@ -8,3 +8,10 @@ sql learning
 https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
 
 	https://academy.vertabelo.com/course/ms-sql-basics/single-table/filtering-rows/not-equals   (bcs)
+
+
+
+
+different type of project with source code
+
+https://phpgurukul.com/php-projects-free-downloads/
